@@ -22,7 +22,7 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/e-store.git
+git clone https://github.com/Piyush94G/Mini-E-Commerce-Product-Cart.git
 cd e-store
 ```
 
